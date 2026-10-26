@@ -1,0 +1,10 @@
+# Python bytecode from running the scripts.
+__pycache__/
+
+# Outputs of the steps in README.md, when run from this directory.
+m5out/
+checkpoints/
+simpoints/
+
+# A SimPoint clone built here (see "Step 2" in README.md).
+simpoint/
